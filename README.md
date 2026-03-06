@@ -8,10 +8,11 @@
 
 ## 👨‍💻 About Me  
 
-💡 Self-motivated and detail-oriented **AI Engineer / Data Scientist** passionate about building scalable, real-world AI systems.  
-⚡ Experienced in developing **end-to-end AI applications**, multimodal RAG systems, and real-time computer vision solutions.  
-🎯 Seeking **Entry-Level AI / Data Science opportunities** to contribute to impactful projects and grow professionally.  
+💡 Self-motivated and detail-oriented **AI & Data Science enthusiast** with a strong interest in building real-world AI solutions.  
 
+⚡ Skilled in **Python, SQL, Machine Learning, Generative AI, Data Analysis, and Visualization tools such as Power BI and Excel**.  
+
+🎯 Seeking **Entry-Level AI / Data Science opportunities** to apply technical knowledge, gain industry experience, and contribute to impactful projects.
 ---
 
 ## 🛠 Tech Stack  
@@ -93,26 +94,16 @@
 ✔ Generative AI with AWS – Analytics Vidhya  
 
 ---
+## 🎓 Education
 
-## 🎓 Education  
-
-🎓 Diploma in Artificial Intelligence & Data Engineering  
-🎓 B.A. Economics (Honours) – IGNOU  
-🎓 ACCA (UK) – 4 Papers Completed  
+🎓 Diploma in Artificial Intelligence & Data Engineering
+🎓 Higher Secondary Education – Computer Commerce Stream
 
 ---
 
 ## 🌎 Languages  
 
 English | Malayalam  
-
----
-
-## 📊 Contribution Activity  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramees-m&theme=tokyo-night&hide_border=true&area=true" />
-</p>
 
 ---
 
@@ -126,9 +117,7 @@ If you're interested in AI, Generative AI, RAG systems, or Computer Vision — l
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexander-roy-570456191](https://www.linkedin.com/in/muhamed-ramees-m-910662383/">
-  </a>
-  <a href="https://alexander789400.github.io/Portfolio-Alexander_Roy/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>  
   </a>
 </p>
 
