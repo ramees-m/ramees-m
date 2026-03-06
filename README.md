@@ -125,11 +125,7 @@ If you're interested in AI, Generative AI, RAG systems, or Computer Vision — l
 ## 📬 Contact Me  
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/alexander-roy-570456191](https://www.linkedin.com/in/muhamed-ramees-m-910662383/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Alexander789400">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/alexander-roy-570456191](https://www.linkedin.com/in/muhamed-ramees-m-910662383/">
   </a>
   <a href="https://alexander789400.github.io/Portfolio-Alexander_Roy/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
