@@ -125,7 +125,7 @@ If you're interested in AI, Generative AI, RAG systems, or Computer Vision — l
 ## 📬 Contact Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexander-roy-570456191">
+  <a href="[https://www.linkedin.com/in/alexander-roy-570456191](https://www.linkedin.com/in/muhamed-ramees-m-910662383/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Alexander789400">
@@ -137,8 +137,8 @@ If you're interested in AI, Generative AI, RAG systems, or Computer Vision — l
 </p>
 
 
-- 📧 Email: alexk.k457roy@gmail.com  
-- 📞 +91-9048679149
+- 📧 Email: rameesmr007@gmail.com  
+- 📞 +91-9745207081
 
 ⭐ *Building Intelligent Systems That Solve Real-World Problems*
 <!--
