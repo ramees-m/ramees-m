@@ -52,28 +52,29 @@
 
 ## 🔥 Featured Projects  
 
-### 🌏 AI-Powered Tokyo Travel Architect  
-- Multimodal RAG system with semantic retrieval & hallucination control  
-- Gemini + Groq failover architecture  
-- Automatic Google Maps link injection  
-- Hybrid budget reasoning & trip optimization  
+### 🚆 AI-Based Tram Track Monitoring System
+- Computer Vision system for detecting track conditions and anomalies
+- Image processing and ML techniques for infrastructure monitoring
+- Automated detection workflow for safer railway maintenance
+- Python-based analysis pipeline for real-time monitoring
 
-### 🏋️ AI Kinematics – Exercise Trainer & Form Evaluator  
-- Custom YOLOv8 Pose dataset (1100 frames)  
-- Real-time rep counting & posture correction  
-- Audio coaching + performance analytics  
-- Flask + OpenCV deployment  
+### 🌡️ Urban Heat Island (UHI) Impact Analysis
+- Data analysis and machine learning to study Urban Heat Island effects
+- Environmental data processing and temperature trend analysis
+- Visualization of heat distribution using data science tools
+- Insights for urban climate and sustainability research
 
-### 🧾 AI Complaint Resolution & Root Cause Analysis  
-- Transformers + LSTM  
-- Sentiment Analysis + automated response generation  
-- Flask web app with SQLite backend  
+### 👨‍💼 Employee Attrition Prediction System
+- Machine Learning model to predict employee turnover risk
+- Data preprocessing, feature engineering, and model evaluation
+- HR analytics insights for workforce retention strategies
+- Built using Python, Pandas, and Scikit-learn
 
-### ♻️ Circular Economy AI Tracker  
-- Ridge Regression + Logistic Regression  
-- Circularity score prediction & waste classification  
-- Full-stack ML deployment  
-
+### 📊 Financial & Data Analysis Projects
+- Data cleaning, analysis, and visualization using Python
+- SQL-based data querying and reporting
+- Interactive dashboards using Power BI and Excel
+- Focus on business insights and decision support
 ---
 
 ## 📈 GitHub Analytics  
@@ -106,11 +107,6 @@
 
 English | Malayalam  
 
----
-
-## 🤝 Let's Connect  
-
-If you're interested in AI, Generative AI, RAG systems, or Computer Vision — let's collaborate and build something impactful 🚀  
 
 ---
 
@@ -121,6 +117,8 @@ If you're interested in AI, Generative AI, RAG systems, or Computer Vision — l
    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>  
   </a>
 </p>
+
+
 
 
 - 📧 Email: rameesmr007@gmail.com  
