@@ -113,7 +113,7 @@ English | Malayalam
 ## 📬 Contact Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexander-roy-570456191](https://www.linkedin.com/in/muhamed-ramees-m-910662383/">
+  <a href="https://www.linkedin.com/in/muhamed-ramees-m-910662383/">
    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>  
   </a>
 </p>
