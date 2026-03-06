@@ -97,6 +97,7 @@
 ## 🎓 Education
 
 🎓 Diploma in Artificial Intelligence & Data Engineering
+
 🎓 Higher Secondary Education – Computer Commerce Stream
 
 ---
