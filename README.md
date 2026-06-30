@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
 
 💡 Self-motivated and detail-oriented **AI & Data Science enthusiast** with a strong interest in building real-world AI solutions.  
 
@@ -89,10 +89,11 @@
 
 
 
-## 🏆 Certifications  
+## 🏆 Certifications
 
-✔ Machine Learning for Beginners – Analytics Vidhya  
-✔ Generative AI with AWS – Analytics Vidhya  
+✔ AI Data Scientist Certification
+
+✔ NASSCOM Certification
 
 ---
 ## 🎓 Education
